@@ -1,0 +1,1 @@
+pyuic5 uAuth.ui -o ./view/uiAuth.py
